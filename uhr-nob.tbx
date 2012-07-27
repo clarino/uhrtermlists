@@ -1160,7 +1160,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-86eng">school-leaving examination</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "school-leaving certificate"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -1227,7 +1227,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-91eng">crib / copy</term>
-   <termNote type="usage">"" does not necessary mean "to copy off" someone else. "Copy" does not always involve dishonesty: 'I will make a copy of the Board's decision'. See "plagiarism" and "examination misconduct".</termNote>
+   <termNote type="usage">"crib" usually refers to written information such as answers to questions, being used dishonestly by a student in a test: 'He was found with a crib sheet under his desk'. Thus "to crib" does not necessary mean "to copy off" someone else. "Copy" does not always involve dishonesty: 'I will make a copy of the Board's decision'. See "plagiarism" and "examination misconduct".</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -1894,7 +1894,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-141eng">pass an examination </term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "take an examination")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -1921,7 +1921,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-143eng">office address</term>
-   <termNote type="usage">In a company letterhead, 'offices' can be used, see ""</termNote>
+   <termNote type="usage">In a company letterhead, 'offices' can be used, see "postal address"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -2004,7 +2004,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-149eng">allocation / grant</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "grant")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -2216,7 +2216,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-165eng">blind </term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "impaired vision")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -2258,7 +2258,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-168eng">Norwegian bokmål </term>
-   <termNote type="usage">(One of the two official forms of written Norwegian, see "", "Norwegian nynorsk")</termNote>
+   <termNote type="usage">(One of the two official forms of written Norwegian, see "form of Norwegian", "Norwegian nynorsk")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -2299,7 +2299,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-171eng">expulsion </term>
-   <termNote type="usage">(This is from a place in disciplinary situations, see "")</termNote>
+   <termNote type="usage">(This is from a place in disciplinary situations, see "exclusion")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -2885,7 +2885,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-215eng">joint management </term>
-   <termNote type="usage">(If the management is divided in two, 'dual management' is an alternative.) See "".</termNote>
+   <termNote type="usage">(If the management is divided in two, 'dual management' is an alternative.) See "unitary management".</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -2966,7 +2966,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-221eng">didactics</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "subject didactics")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3061,7 +3061,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-228eng">double degree </term>
-   <termNote type="usage">(A double degree is two or more degrees given by two or more higher education institutions for the same programme of study. See "")</termNote>
+   <termNote type="usage">(A double degree is two or more degrees given by two or more higher education institutions for the same programme of study. See "joint degree")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3336,7 +3336,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-249eng">Dr.ing. , Dr.art. , Dr.polit.</term>
-   <termNote type="usage">(see "")</termNote>
+   <termNote type="usage">(see "doctoral degree")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3376,7 +3376,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-252eng">dyscalculia</term>
-   <termNote type="usage">(Dyscalculia means learning difficulty in mathematics. See "")</termNote>
+   <termNote type="usage">(Dyscalculia means learning difficulty in mathematics. See "students with special needs")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3390,7 +3390,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-253eng">dyslexia</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "students with special needs")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3431,7 +3431,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-256eng">deaf</term>
-   <termNote type="usage">'We have facilities for the deaf and students who are hard of hearing' (see "")</termNote>
+   <termNote type="usage">'We have facilities for the deaf and students who are hard of hearing' (see "students with special needs")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3498,7 +3498,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-261eng">fee </term>
-   <termNote type="usage">'We have a copy fee that has to be paid'.(See "")</termNote>
+   <termNote type="usage">'We have a copy fee that has to be paid'.(See "tuition fee")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3525,7 +3525,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-263eng">self-certification of absence</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "medical certificate"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3671,7 +3671,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-274eng">examination </term>
-   <termNote type="usage">(Note that the short form 'exam' should be avoided in formal contexts, such as examination regulations). See ""</termNote>
+   <termNote type="usage">(Note that the short form 'exam' should be avoided in formal contexts, such as examination regulations). See "assessment"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -3711,7 +3711,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-277eng">form of examination</term>
-   <termNote type="usage">(Note that 'assessment' is the overall term and 'examination' is a tool in the assessment, see "")</termNote>
+   <termNote type="usage">(Note that 'assessment' is the overall term and 'examination' is a tool in the assessment, see "form of assessment")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4101,7 +4101,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-306eng">course</term>
-   <termNote type="usage">'You are registered for the following courses...'. (The term 'course unit' is not recommended). See "".</termNote>
+   <termNote type="usage">'You are registered for the following courses...'. (The term 'course unit' is not recommended). See "course of study".</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4591,7 +4591,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-343eng">continuing education</term>
-   <termNote type="usage">(See "", "lifelong learning")</termNote>
+   <termNote type="usage">(See "further education", "lifelong learning")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4632,7 +4632,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-346eng">evaluation</term>
-   <termNote type="usage">(See "", "review")</termNote>
+   <termNote type="usage">(See "assessment", "review")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4701,7 +4701,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-351eng">academic responsibility</term>
-   <termNote type="usage">(see "")</termNote>
+   <termNote type="usage">(see "academic responsibility")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4729,7 +4729,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-353eng">examiner with academic responsibility</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "examiner")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4756,7 +4756,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-355eng">craft certificate </term>
-   <termNote type="usage">(This entitles someone to practise the trade concerned, see "")</termNote>
+   <termNote type="usage">(This entitles someone to practise the trade concerned, see "apprentices' final examination")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4880,7 +4880,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-364eng">specific recognition</term>
-   <termNote type="usage">(This is done by individual universities or university colleges, see "")</termNote>
+   <termNote type="usage">(This is done by individual universities or university colleges, see "general recognition")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -4946,7 +4946,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-369eng">overlap</term>
-   <termNote type="usage">A situation where two or more subjects or courses have similar content. 'The degree of overlap is over 20%.' See "" </termNote>
+   <termNote type="usage">A situation where two or more subjects or courses have similar content. 'The degree of overlap is over 20%.' See "credit reduction due to overlapping courses" </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5015,7 +5015,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-374eng">academic environment / academic group / research group.</term>
-   <termNote type="usage">"" is the general term: 'The university has several leading academic environments in the humanities'. "Academic group" is an alternative for a smaller unit (see "academic community"). "Research group" refers to a smaller unit than "academic environment" with focus on research. </termNote>
+   <termNote type="usage">"Academic environment" is the general term: 'The university has several leading academic environments in the humanities'. "Academic group" is an alternative for a smaller unit (see "academic community"). "Research group" refers to a smaller unit than "academic environment" with focus on research. </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5029,7 +5029,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-375eng">subject area</term>
-   <termNote type="usage">(This is used generally by the European Commission for the highest level: 'Humanities, Social Sciences, Technology' etc. See "")</termNote>
+   <termNote type="usage">(This is used generally by the European Commission for the highest level: 'Humanities, Social Sciences, Technology' etc. See "programme option")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5043,7 +5043,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-376eng">apprentices' final examination</term>
-   <termNote type="usage">(Final examination after apprenticeship in a organization or at Upper Secondary School, see "")</termNote>
+   <termNote type="usage">(Final examination after apprenticeship in a organization or at Upper Secondary School, see "craft certificate")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5175,7 +5175,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-386eng">false institution</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "diploma mill"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5336,7 +5336,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-398eng">joint degree </term>
-   <termNote type="usage">(A joint degree is a higher education qualification issued jointly by at least two or more higher education institutions. See "")</termNote>
+   <termNote type="usage">(A joint degree is a higher education qualification issued jointly by at least two or more higher education institutions. See "double degree")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5602,7 +5602,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-418eng">blended teaching </term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "varied teaching methods")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5815,7 +5815,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-434eng">preliminary approval</term>
-   <termNote type="usage">'This is only preliminary approval of your planned studies in Canada'.(See "")</termNote>
+   <termNote type="usage">'This is only preliminary approval of your planned studies in Canada'.(See "prior recognition")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -5988,7 +5988,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-447eng">formal learning</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "non-formal learning")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -6002,7 +6002,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-448eng">formal education</term>
-   <termNote type="usage">(see "")</termNote>
+   <termNote type="usage">(see "formal learning")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -6453,7 +6453,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-482eng">Minister of Research and Higher Education</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "Minister of Education"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -6705,7 +6705,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-501eng">defence / public defence (of a thesis),</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "disputation")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -7142,7 +7142,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-534eng">adult education, evening course</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "Folkeuniversitetet"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -7379,7 +7379,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-552eng">examination offence / cheat</term>
-   <termNote type="usage">The student attempted to commit an examination offence'. This is often referred to as "" internationally. See "academic misconduct", "crib", "plagiarism".</termNote>
+   <termNote type="usage">The student attempted to commit an examination offence'. This is often referred to as "cheating" internationally. See "academic misconduct", "crib", "plagiarism".</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -7488,7 +7488,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-560eng">follow up (verb)</term>
-   <termNote type="usage">'Always follow up a phone call with an email to confirm matters like this'. See ""</termNote>
+   <termNote type="usage">'Always follow up a phone call with an email to confirm matters like this'. See "follow-up"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -7764,7 +7764,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-581eng">general recognition</term>
-   <termNote type="usage">(Education taken abroad can be assessed as being equivalent in level and scope to Norwegian higher education. This may be given to those with complete degrees or part of degrees taken abroad. This is done by NOKUT. (See "")</termNote>
+   <termNote type="usage">(Education taken abroad can be assessed as being equivalent in level and scope to Norwegian higher education. This may be given to those with complete degrees or part of degrees taken abroad. This is done by NOKUT. (See "specific recognition")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -7778,7 +7778,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-582eng">Higher Education Entrance Qualification</term>
-   <termNote type="usage">(Informally 'qualified to be a student at...'. Note that a person holds a qualification for entrance to higher education, whereas an institution stipulates its admission requirements. See "")</termNote>
+   <termNote type="usage">(Informally 'qualified to be a student at...'. Note that a person holds a qualification for entrance to higher education, whereas an institution stipulates its admission requirements. See "specific entrance requirements")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -7913,7 +7913,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-592eng">review </term>
-   <termNote type="usage">(This is less extensive than an evaluation, see "", "evaluation")</termNote>
+   <termNote type="usage">(This is less extensive than an evaluation, see "assessment", "evaluation")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -8019,7 +8019,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-600eng">recognition</term>
-   <termNote type="usage">'He applied for recognition of the courses taken at TU Berlin'. (See "", "final approval")</termNote>
+   <termNote type="usage">'He applied for recognition of the courses taken at TU Berlin'. (See "preliminary approval", "final approval")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -8680,7 +8680,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-650eng">reference</term>
-   <termNote type="usage">'With reference to your email of 10 June...'  (see "")</termNote>
+   <termNote type="usage">'With reference to your email of 10 June...'  (see "reference (person)")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -8722,7 +8722,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-653eng">authority / authorization</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "under the provisions of"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9069,7 +9069,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-679eng">X... University College. </term>
-   <termNote type="usage">(Use the Norwegian abbreviation in brackets. (Example: 'Akershus ")</termNote>
+   <termNote type="usage">(Use the Norwegian abbreviation in brackets. (Example: 'Akershus University College (HiAk)'. See "University College")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9189,7 +9189,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-688eng">hearing impairment</term>
-   <termNote type="usage">'We have equipment designed for students with hearing impairments'. See ""</termNote>
+   <termNote type="usage">'We have equipment designed for students with hearing impairments'. See "students with special needs"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9217,7 +9217,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-690eng">second degree / second cycle degree (ECTS) </term>
-   <termNote type="usage">(American English uses the term "". See "master's degree")</termNote>
+   <termNote type="usage">(American English uses the term "graduate degree". See "master's degree")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9375,7 +9375,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-702eng">fail (noun).</term>
-   <termNote type="usage">'He has a " verb)</termNote>
+   <termNote type="usage">'He has a fail in mathematics'. (See "fail" verb)</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9389,7 +9389,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-703eng">non-formal qualification</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "prior learning"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9403,7 +9403,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-704eng">non-formal learning</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "formal learning", "informal learning")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9497,7 +9497,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-711eng">enrolment</term>
-   <termNote type="usage">'The "). </termNote>
+   <termNote type="usage">'The enrolment ceremony gathered over 5000 new students'. (Note that 'matriculate' is an alternative term. '(Formal) to officially become a student at a university' (Oxford Advanced Learner's Dictionary). (See "enrol"). </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9736,7 +9736,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-729eng">confiscate / revoke </term>
-   <termNote type="usage">Confiscate (for documents), revoke (for right to study), see ""</termNote>
+   <termNote type="usage">Confiscate (for documents), revoke (for right to study), see "termination of admission"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9750,7 +9750,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-730eng">confiscation / withdrawal</term>
-   <termNote type="usage">Confiscation (for documents), withdrawal (for right to study), see ""</termNote>
+   <termNote type="usage">Confiscation (for documents), withdrawal (for right to study), see "termination of admission"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -9860,7 +9860,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-738eng">specific recognition</term>
-   <termNote type="usage">This is done by individual universities or university colleges. They recognize education taken abroad in relation to their courses and degrees. They decide whether the education taken abroad meets their specific requirements in terms of scope and depth. (Administrative approval is called "". See "general recognition") (NOKUT)</termNote>
+   <termNote type="usage">This is done by individual universities or university colleges. They recognize education taken abroad in relation to their courses and degrees. They decide whether the education taken abroad meets their specific requirements in terms of scope and depth. (Administrative approval is called "godskriving". See "general recognition") (NOKUT)</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -10427,7 +10427,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-781eng">grade (noun)</term>
-   <termNote type="usage">(Used with ECTS grades  - A, B, C etc. See "", "grade" (verb)).</termNote>
+   <termNote type="usage">(Used with ECTS grades  - A, B, C etc. See "mark", "grade" (verb)).</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -10591,7 +10591,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-793eng">counselling</term>
-   <termNote type="usage">(This covers careers advice and social counselling). See ""</termNote>
+   <termNote type="usage">(This covers careers advice and social counselling). See "student guidance"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -11254,7 +11254,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-843eng">per diem allowance / subsistence allowance</term>
-   <termNote type="usage">(This does not cover the travel costs, use 'per diem allowance' or 'subsistence allowance'. See "", "overnight allowance")  </termNote>
+   <termNote type="usage">(This does not cover the travel costs, use 'per diem allowance' or 'subsistence allowance'. See "travel allowance", "overnight allowance")  </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -11558,7 +11558,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-866eng">Minister of Education</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "Minister of Research and Higher Education"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -11889,7 +11889,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-891eng">first degree  / lower degree / first cycle degree (ECTS) </term>
-   <termNote type="usage">(see "")</termNote>
+   <termNote type="usage">(see "bachelorgrad")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -12823,7 +12823,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-961eng">under the provisions of the Act relating to...</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "authority"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -13304,7 +13304,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-997eng">minutes</term>
-   <termNote type="usage">(see "")</termNote>
+   <termNote type="usage">(see "notification of meeting")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -13332,7 +13332,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-999eng">form of Norwegian</term>
-   <termNote type="usage">'Cross either bokmål or nynorsk to select the form of Norwegian you prefer' (see "", "Norwegian nynorsk") </termNote>
+   <termNote type="usage">'Cross either bokmål or nynorsk to select the form of Norwegian you prefer' (see "Norwegian bokmål", "Norwegian nynorsk") </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -13479,7 +13479,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1010eng">overnight allowance</term>
-   <termNote type="usage">(If you only refer to the daily allowance, see "" / "subsistence allowance". For travel, see "travel allowance") </termNote>
+   <termNote type="usage">(If you only refer to the daily allowance, see "per diem allowance" / "subsistence allowance". For travel, see "travel allowance") </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -13652,7 +13652,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1023eng">nominal length of study</term>
-   <termNote type="usage">'Three years is the nominal length of study'. (See "").</termNote>
+   <termNote type="usage">'Three years is the nominal length of study'. (See "progress").</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -13693,7 +13693,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1026eng">Norwegian nynorsk </term>
-   <termNote type="usage">(One of the two official forms of written Norwegian, see "", "Norwegian bokmål") </termNote>
+   <termNote type="usage">(One of the two official forms of written Norwegian, see "form of Norwegian", "Norwegian bokmål") </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -14215,7 +14215,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1065eng">commission / duty</term>
-   <termNote type="usage">Commission is common in research, see "".Duty is more general: (From a CV 'Research Interests, Publications, Academic Activities, Teaching duty'). "Task" is an alternative.</termNote>
+   <termNote type="usage">Commission is common in research, see "contract research".Duty is more general: (From a CV 'Research Interests, Publications, Academic Activities, Teaching duty'). "Task" is an alternative.</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15060,7 +15060,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1128eng">Syllabus</term>
-   <termNote type="usage">(The subject matter in a series of lectures or single course. See "")</termNote>
+   <termNote type="usage">(The subject matter in a series of lectures or single course. See "curriculum")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15074,7 +15074,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1129eng">periodic evaluation</term>
-   <termNote type="usage">(This is more extensive than a "). </termNote>
+   <termNote type="usage">(This is more extensive than a periodic review, see "periodic review"). </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15194,7 +15194,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1138eng">perspective course</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "complementary course")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15248,7 +15248,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1142eng">plagiarism</term>
-   <termNote type="usage">"'. See "crib" and "examination misconduct". </termNote>
+   <termNote type="usage">"plagiarism" refers to a student or researcher copying another persons ideas, words or work and pretending that they are their own: 'Always state your sources to avoid being accused of plagiarism'. See "crib" and "examination misconduct". </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15289,7 +15289,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1145eng">points</term>
-   <termNote type="usage">(used in ranking students for admission. See "")</termNote>
+   <termNote type="usage">(used in ranking students for admission. See "credit")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15422,7 +15422,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1155eng">supervised professional training</term>
-   <termNote type="usage">(Also called placement and practical training. See "")</termNote>
+   <termNote type="usage">(Also called placement and practical training. See "internship")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15488,7 +15488,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1160eng">internship</term>
-   <termNote type="usage">(Although the term is widely used in hospitals, it generally refers to a trainee position or traineeship for a student or new graduate. See "" (medical) and "placement")</termNote>
+   <termNote type="usage">(Although the term is widely used in hospitals, it generally refers to a trainee position or traineeship for a student or new graduate. See "internship" (medical) and "placement")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -15939,7 +15939,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1194eng">trial lecture </term>
-   <termNote type="usage">(Usually in connection with the doctoral ")</termNote>
+   <termNote type="usage">(Usually in connection with the doctoral disputation). (See "disputation")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16059,7 +16059,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1203eng">complain / appeal </term>
-   <termNote type="usage">"" (general term). 'You complained about noise during an examination last Wednesday.' "Appeal" (legal term - where the matter is to be decided by an authoritative body). 'There is no opportunity to appeal about your grade.' See "appeal", "appeals committee"</termNote>
+   <termNote type="usage">"Complain" (general term). 'You complained about noise during an examination last Wednesday.' "Appeal" (legal term - where the matter is to be decided by an authoritative body). 'There is no opportunity to appeal about your grade.' See "appeal", "appeals committee"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16086,7 +16086,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1205eng">National Curriculum Regulations / national curriculum </term>
-   <termNote type="usage">'These are the National Curriculum Regulations for teachers' education'.'According to the national curriculum, students are to...' (see ""syllabus").</termNote>
+   <termNote type="usage">'These are the National Curriculum Regulations for teachers' education'.'According to the national curriculum, students are to...' (see "programme description,  "syllabus").</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16165,7 +16165,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1211eng">prior learning and work experience</term>
-   <termNote type="usage">For undocumented education or training, use ""). (See "Accreditation of Prior Experiential Learning")</termNote>
+   <termNote type="usage">For undocumented education or training, use "prior learning"). (See "Accreditation of Prior Experiential Learning")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16179,7 +16179,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1212eng">Accreditation of Prior Experiential Learning (APEL)</term>
-   <termNote type="usage">(See "").</termNote>
+   <termNote type="usage">(See "prior learning and work experience").</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16248,7 +16248,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1217eng">minutes taker</term>
-   <termNote type="usage">Also called "":Jon is the minutes taker today. Jon will take the minutes. See "to minute"</termNote>
+   <termNote type="usage">Also called "minutes secretary":Jon is the minutes taker today. Jon will take the minutes. See "to minute"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16343,7 +16343,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1224eng">travel expenses</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "travel and subsistence claim form")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16370,7 +16370,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1226eng">travel expenses account</term>
-   <termNote type="usage">'All delegates must send a travel expenses account by the end of May'. "" is an alternative. See "travel and subsistence claim form"</termNote>
+   <termNote type="usage">'All delegates must send a travel expenses account by the end of May'. "Travel expenses invoice" is an alternative. See "travel and subsistence claim form"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16384,7 +16384,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1227eng">travel and subsistence claim form</term>
-   <termNote type="usage">'All delegates must use the travel and subsistence claim form. This can be downloaded from ...'. See "" </termNote>
+   <termNote type="usage">'All delegates must use the travel and subsistence claim form. This can be downloaded from ...'. See "travel expenses account" </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16398,7 +16398,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1228eng">travel allowance </term>
-   <termNote type="usage">'There is a travel allowance for agreed use of your car, but the other travel expenses are refunded when documented by tickets etc.' (For the daily allowance, see "" / "subsistence allowance", "overnight allowance") </termNote>
+   <termNote type="usage">'There is a travel allowance for agreed use of your car, but the other travel expenses are refunded when documented by tickets etc.' (For the daily allowance, see "per diem allowance" / "subsistence allowance", "overnight allowance") </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -16923,7 +16923,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1267eng">agenda</term>
-   <termNote type="usage">'We have seven "</termNote>
+   <termNote type="usage">'We have seven items on the agenda today'. See "item"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -17391,7 +17391,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1302eng">grade (verb)</term>
-   <termNote type="usage">Grade as a verb means to give marks / grades to students based on written work. 'I spent all weekend grading papers' This is especially American English. See "" </termNote>
+   <termNote type="usage">Grade as a verb means to give marks / grades to students based on written work. 'I spent all weekend grading papers' This is especially American English. See "grade (noun)" </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -17405,7 +17405,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1303eng">grading</term>
-   <termNote type="usage">'The grading of examination answer papers will be finished on 3 June'. See "", "determine the grade"</termNote>
+   <termNote type="usage">'The grading of examination answer papers will be finished on 3 June'. See "grade (noun)", "determine the grade"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -17432,7 +17432,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1305eng">examination result </term>
-   <termNote type="usage">'The examination results will be announced on 3 July'. See "" (verb)</termNote>
+   <termNote type="usage">'The examination results will be announced on 3 July'. See "grade" (verb)</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -17446,7 +17446,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1306eng">grade awarded</term>
-   <termNote type="usage">'An appeal regarding the grade awarded is to be sent to the Faculty that is responsible for the course', see ""</termNote>
+   <termNote type="usage">'An appeal regarding the grade awarded is to be sent to the Faculty that is responsible for the course', see "decision"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -17726,7 +17726,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1327eng">tuition fee</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "fee"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -18329,7 +18329,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1372eng">fail</term>
-   <termNote type="usage">" noun)</termNote>
+   <termNote type="usage">fail (verb): 'He failed the written examination in...' (See "fail" noun)</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -18730,7 +18730,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1402eng">tuition fee</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "fee"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -18798,7 +18798,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1407eng">educational grants and loans </term>
-   <termNote type="usage">(see "") </termNote>
+   <termNote type="usage">(see "Norwegian State Educational Loan Fund") </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -18919,7 +18919,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1416eng">course of study</term>
-   <termNote type="usage">(In BE, this means a period of study at a college or university: 'a two-year college "</termNote>
+   <termNote type="usage">(In BE, this means a period of study at a college or university: 'a two-year college course'. In AE this is usually called 'a two-year college program'. See "course"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19014,7 +19014,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1423eng">programme description </term>
-   <termNote type="usage">(The content of a degree or programme of study, decided by the academic institution. See "", curriculum", "syllabus")</termNote>
+   <termNote type="usage">(The content of a degree or programme of study, decided by the academic institution. See "programme catalogue", curriculum", "syllabus")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19028,7 +19028,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1424eng">place (on a programme of study)</term>
-   <termNote type="usage">'We have 60 places available in Medicine this year' (see "")</termNote>
+   <termNote type="usage">'We have 60 places available in Medicine this year' (see "offer of admission to a programme of study")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19083,7 +19083,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1428eng">progress</term>
-   <termNote type="usage">'The student's progress in relation to the ")</termNote>
+   <termNote type="usage">'The student's progress in relation to the nominal length of study'. (See "nominal length of study")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19097,7 +19097,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1429eng">regulations regarding progress of study </term>
-   <termNote type="usage">(see "", "progress")</termNote>
+   <termNote type="usage">(see "nominal length of study", "progress")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19137,7 +19137,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1432eng">programme option</term>
-   <termNote type="usage">(The European Commission uses 'field of study' as a defining term for the disciplines within the main subject area: 'French', 'Computer Science'. See "", "subject area" ). "Discipline" is an alternative term.</termNote>
+   <termNote type="usage">(The European Commission uses 'field of study' as a defining term for the disciplines within the main subject area: 'French', 'Computer Science'. See "major/specialization", "subject area" ). "Discipline" is an alternative term.</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19232,7 +19232,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1439eng">student guidance</term>
-   <termNote type="usage">(See "", "tutorial", "counselling" and "counselling meeting")</termNote>
+   <termNote type="usage">(See "academic supervision", "tutorial", "counselling" and "counselling meeting")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19246,7 +19246,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1440eng">student advisory service / student guidance </term>
-   <termNote type="usage">(See "" and "counselling")</termNote>
+   <termNote type="usage">(See "academic supervision" and "counselling")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19380,7 +19380,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1450eng">complementary course</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "perspective course")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19433,7 +19433,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1454eng">visually impaired </term>
-   <termNote type="usage">'This building is designed for visually impaired students' / 'This building is designed for students with visual impairments' (see "", "students with special needs")</termNote>
+   <termNote type="usage">'This building is designed for visually impaired students' / 'This building is designed for students with visual impairments' (see "impaired vision", "students with special needs")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19447,7 +19447,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1455eng">answer / reply</term>
-   <termNote type="usage">(Both "" and "reply" are common nouns and verbs. An alternative verb, "respond" is less common and more formal. See "response")</termNote>
+   <termNote type="usage">(Both "answer" and "reply" are common nouns and verbs. An alternative verb, "respond" is less common and more formal. See "response")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19475,7 +19475,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1457eng">craft certificate </term>
-   <termNote type="usage">(This entitles someone to practise the trade concerned, see "")</termNote>
+   <termNote type="usage">(This entitles someone to practise the trade concerned, see "apprentices' final examination")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19489,7 +19489,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1458eng">apprentices' final examination</term>
-   <termNote type="usage">(Final examination after apprenticeship in a organization or at Upper Secondary School,  see "")</termNote>
+   <termNote type="usage">(Final examination after apprenticeship in a organization or at Upper Secondary School,  see "craft certificate")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19517,7 +19517,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1460eng">leave of absence (due to illness)</term>
-   <termNote type="usage">'Jon Olsen has a leave of absence until 20 September'. See "".</termNote>
+   <termNote type="usage">'Jon Olsen has a leave of absence until 20 September'. See "medical certificate".</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19531,7 +19531,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1461eng">medical certificate / doctor's certificate</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "self-certification of absence"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19545,7 +19545,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1462eng">impaired vision</term>
-   <termNote type="usage">'Impaired vision covers the terms partially sighted, low vision, legally blind, and totally blind' (see "")</termNote>
+   <termNote type="usage">'Impaired vision covers the terms partially sighted, low vision, legally blind, and totally blind' (see "visually impaired")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19784,7 +19784,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1480eng">to minute</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "minutes taker"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -19988,7 +19988,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1495eng">early application deadline / early admission </term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "NUCAS")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20016,7 +20016,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1497eng">response</term>
-   <termNote type="usage">'This is in response to your enquiry about our programme of study in...'. (The alternative term "" is more informal, here. See "answer" / "reply")</termNote>
+   <termNote type="usage">'This is in response to your enquiry about our programme of study in...'. (The alternative term "feedback" is more informal, here. See "answer" / "reply")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20191,7 +20191,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1510eng">adaptation </term>
-   <termNote type="usage">(Of buildings etc. for students with special needs, see ""</termNote>
+   <termNote type="usage">(Of buildings etc. for students with special needs, see "universal design"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20245,7 +20245,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1514eng">offer of employment</term>
-   <termNote type="usage">(This is used when it refers to the "" from UDI, see "offer of position") </termNote>
+   <termNote type="usage">(This is used when it refers to the "arbeidstilbud" from UDI, see "offer of position") </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20457,7 +20457,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1530eng">deduction</term>
-   <termNote type="usage">'There will be a deduction in salary next month to cover the advance you received in January'. See ""</termNote>
+   <termNote type="usage">'There will be a deduction in salary next month to cover the advance you received in January'. See "withdrawal"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20524,7 +20524,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1535eng">internship (medical)</term>
-   <termNote type="usage">(Part of the process of obtaining certain categories of medical authorization / medisinsk autorisering i forbindelse med autorisasjon som  helsepersonell. See "") </termNote>
+   <termNote type="usage">(Part of the process of obtaining certain categories of medical authorization / medisinsk autorisering i forbindelse med autorisasjon som  helsepersonell. See "internship") </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20592,7 +20592,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1540eng">informal qualification</term>
-   <termNote type="usage">See ""</termNote>
+   <termNote type="usage">See "prior learning"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20606,7 +20606,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1541eng">informal learning</term>
-   <termNote type="usage">(See "", "formal learning")</termNote>
+   <termNote type="usage">(See "non-formal learning", "formal learning")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -20998,7 +20998,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1570eng">Lower Secondary School</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "school-leaving examination"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21012,7 +21012,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1571eng">universal design</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "adaptation"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21232,7 +21232,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1587eng">academic misconduct / dishonourable conduct</term>
-   <termNote type="usage">'As the student's certificate to gain admission was false, he is accused of academic misconduct'. Alternative is 'Do something by dishonest means'. See "", "crib", "plagiarism".</termNote>
+   <termNote type="usage">'As the student's certificate to gain admission was false, he is accused of academic misconduct'. Alternative is 'Do something by dishonest means'. See "examination offence", "crib", "plagiarism".</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21434,7 +21434,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1602eng">live abroad / living abroad</term>
-   <termNote type="usage">(Note that to live or living ")</termNote>
+   <termNote type="usage">(Note that to live or living abroad indicates a settled period. See "abroad")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21475,7 +21475,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1605eng">exclusion (from a course) </term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "expulsion")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21529,7 +21529,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1609eng">abroad / out of the country </term>
-   <termNote type="usage">'Professor Smith is abroad for the rest of the month'. See ""</termNote>
+   <termNote type="usage">'Professor Smith is abroad for the rest of the month'. See "live abroad"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21596,7 +21596,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1614eng">placement</term>
-   <termNote type="usage">(Also called work placement, refers to work experience as part of a course of study. See "")</termNote>
+   <termNote type="usage">(Also called work placement, refers to work experience as part of a course of study. See "internship")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21610,7 +21610,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1615eng">report</term>
-   <termNote type="usage">(Both investigation and study are alternative terms. See "")</termNote>
+   <termNote type="usage">(Both investigation and study are alternative terms. See "Official Norwegian Report (NOU)")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21637,7 +21637,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1617eng">re-scheduled examination</term>
-   <termNote type="usage">(postponed examination is an alternative term. See "")</termNote>
+   <termNote type="usage">(postponed examination is an alternative term. See "re-sit examination")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21771,7 +21771,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1627eng">list of applicants including their professional  qualifications</term>
-   <termNote type="usage">("" is an alternative term. See "list of applicants"</termNote>
+   <termNote type="usage">("details of applicants" is an alternative term. See "list of applicants"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21889,7 +21889,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1636eng">varied teaching methods</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "blended teaching")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -21995,7 +21995,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1644eng">decision</term>
-   <termNote type="usage">'The decision will be made by the Board', see ""</termNote>
+   <termNote type="usage">'The decision will be made by the Board', see "grade awarded"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22050,7 +22050,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1648eng">academic supervision </term>
-   <termNote type="usage">Use "" for "faglig veiledning". For student matters, see "student guidance" and  "counselling". </termNote>
+   <termNote type="usage">Use "academic supervision" for "faglig veiledning". For student matters, see "student guidance" and  "counselling". </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22200,7 +22200,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1659eng">Upper Secondary School</term>
-   <termNote type="usage">'They require an English translation of the subjects you took in Upper Secondary School', see ""</termNote>
+   <termNote type="usage">'They require an English translation of the subjects you took in Upper Secondary School', see "Certificate of Upper Secondary Education"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22228,7 +22228,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1661eng">further education</term>
-   <termNote type="usage">(See "", "lifelong learning")  </termNote>
+   <termNote type="usage">(See "continuing education", "lifelong learning")  </termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22390,7 +22390,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1673eng">diploma / certificate</term>
-   <termNote type="usage">(Documentation of a degree or profession qualification, see "")</termNote>
+   <termNote type="usage">(Documentation of a degree or profession qualification, see "certificate")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22404,7 +22404,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1674eng">Certificate of Upper Secondary Education</term>
-   <termNote type="usage">see ""</termNote>
+   <termNote type="usage">see "Upper Secondary Education Examination"</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22418,7 +22418,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1675eng">school-leaving certificate (from compulsory education)</term>
-   <termNote type="usage">(See "")</termNote>
+   <termNote type="usage">(See "school-leaving examination")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22472,7 +22472,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1679eng">assessment</term>
-   <termNote type="usage">(See "", "examination")</termNote>
+   <termNote type="usage">(See "evaluation", "examination")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22486,7 +22486,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1680eng">form of assessment</term>
-   <termNote type="usage">'In this course the form of assessment is a 6-hour written examination.' (Note that 'assessment' is the overall term and 'examination' is a tool in the assessment, see "")</termNote>
+   <termNote type="usage">'In this course the form of assessment is a 6-hour written examination.' (Note that 'assessment' is the overall term and 'examination' is a tool in the assessment, see "form of examination")</termNote>
   </tig>
  </langSet>
 </termEntry>
@@ -22581,7 +22581,7 @@
  <langSet xml:lang="eng">
   <tig>
    <term id="tid-uhr-1687eng">vocational training </term>
-   <termNote type="usage">Examples include teacher education (see "".</termNote>
+   <termNote type="usage">Examples include teacher education (see "programme of professional study".</termNote>
   </tig>
  </langSet>
 </termEntry>
